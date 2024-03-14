@@ -42,4 +42,4 @@ jobs:
           path: target/reports
       - name: List Files # Optional step
         run: |
-        ls -R
+          ls -R
